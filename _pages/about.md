@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Student, Department of Economics, Michigan State University
 
@@ -13,7 +13,7 @@ profile:
     <p>Michigan State University</p>
     <p>East Lansing, MI 48824</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -25,4 +25,4 @@ latest_posts:
 
 I am a PhD student in Economics at Michigan State University. My research interests include macroeconomics, consumer finance, urban economics, primary and secondary mortgage markets, and banks and financial markets.
 
-Feel free to reach out at  mahmudm2@msu.edu (preferred) OR mahdmahmud@gmail.com.
+Feel free to reach out at mahmudm2 at msu dot edu (preferred) OR mahdmahmud at gmail dot com.

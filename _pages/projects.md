@@ -1,6 +1,6 @@
 ---
 layout: page
-title: work in progress
+title: Work in progress
 permalink: /projects/
 description: Working papers and ongoing research.
 nav: true
