@@ -2,14 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description:
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Michigan State University
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+**EC 402 — Advanced Macroeconomics**
+Instructor, Spring 2026.
 
-{% include courses.liquid %}
+**EC 302 — Intermediate Macroeconomics**
+Instructor of record, Summer 2024.
+
+## Federal Reserve Board of Governors
+
+**ECON 181 — Howard University–Federal Reserve Board Economics Program** (2019–2022)
+Served as teaching assistant, project buddy, and course coordinator for the joint undergraduate economics program between Howard University and the Federal Reserve Board.
